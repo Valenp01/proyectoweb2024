@@ -1,0 +1,21 @@
+body{
+    background-color: #92c5fc;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+.foto{
+    text-align: center;
+}
+
+.foto img{
+    width: 300px;
+}
+
+#mensaje {
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
